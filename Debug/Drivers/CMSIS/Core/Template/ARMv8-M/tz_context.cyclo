@@ -1,0 +1,5 @@
+../Drivers/CMSIS/Core/Template/ARMv8-M/tz_context.c:53:10:TZ_InitContextSystem_S	3
+../Drivers/CMSIS/Core/Template/ARMv8-M/tz_context.c:86:15:TZ_AllocModuleContext_S	3
+../Drivers/CMSIS/Core/Template/ARMv8-M/tz_context.c:112:10:TZ_FreeModuleContext_S	5
+../Drivers/CMSIS/Core/Template/ARMv8-M/tz_context.c:141:10:TZ_LoadContext_S	6
+../Drivers/CMSIS/Core/Template/ARMv8-M/tz_context.c:170:10:TZ_StoreContext_S	8
